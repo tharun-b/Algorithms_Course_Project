@@ -1,0 +1,922 @@
+seed =	1159078720
+
+
+/*****************************************************************/
+/*******************		GRAPH 0		****************/
+/*****************************************************************/
+TOTAL number of edges = 	1500
+For Graph generation	0.014011 seconds.
+
+=========	CASE 0	=========
+
+Finding max capacity path	from 960-------to--------316	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+316, 402, 682, 913, 589, 417, 904, 678, 718, 161, 670, 848, 413, 658, 386, 980, 942, 874, 785, 960
+
+ALGORITHM : Dijkstra's using Heap
+316, 402, 682, 913, 589, 417, 904, 678, 718, 161, 670, 848, 413, 658, 386, 980, 942, 874, 785, 960
+
+ALGORITHM : Kruskal Max Spanning Tree 
+316, 402, 682, 913, 589, 417, 904, 678, 718, 161, 670, 848, 413, 658, 386, 980, 942, 874, 785, 960.
+Summary :
+Dijksra' W/out heap 	 took 0.000384 seconds.	&Found max capacity =	7355
+Dijksra' WITH heap 	 took 0.000203 seconds.	&Found max capacity =	7355
+Kruskal  MST algo 	 took 0.001169 seconds.	&Found max capacity =	7355
+
+=========	CASE 1	=========
+
+Finding max capacity path	from 183-------to--------948	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+948, 471, 917, 167, 620, 739, 800, 224, 513, 300, 231, 209, 835, 343, 641, 536, 151, 865, 379, 708, 58, 508, 869, 405, 521, 410, 106, 951, 640, 129, 196, 399, 313, 776, 438, 181, 655, 340, 117, 777, 444, 450, 485, 562, 361, 702, 293, 104, 529, 465, 159, 339, 789, 102, 909, 686, 86, 77, 334, 720, 892, 747, 991, 183
+
+ALGORITHM : Dijkstra's using Heap
+948, 471, 917, 167, 620, 739, 800, 224, 513, 300, 231, 209, 835, 343, 641, 536, 151, 865, 379, 708, 58, 508, 869, 405, 521, 410, 106, 951, 640, 129, 196, 399, 313, 776, 438, 181, 655, 340, 117, 777, 444, 450, 485, 562, 361, 702, 293, 104, 529, 465, 159, 339, 789, 102, 909, 686, 86, 77, 334, 720, 892, 747, 991, 183
+
+ALGORITHM : Kruskal Max Spanning Tree 
+948, 471, 917, 167, 620, 739, 800, 224, 513, 300, 231, 209, 835, 343, 641, 536, 151, 865, 379, 708, 58, 508, 869, 405, 521, 410, 106, 951, 640, 129, 196, 399, 313, 776, 438, 181, 655, 340, 117, 777, 444, 450, 485, 562, 361, 702, 293, 104, 529, 465, 159, 339, 789, 102, 909, 686, 86, 77, 334, 720, 892, 747, 991, 183.
+Summary :
+Dijksra' W/out heap 	 took 0.000842 seconds.	&Found max capacity =	6682
+Dijksra' WITH heap 	 took 0.000365 seconds.	&Found max capacity =	6682
+Kruskal  MST algo 	 took 0.001075 seconds.	&Found max capacity =	6682
+
+=========	CASE 2	=========
+
+Finding max capacity path	from 368-------to--------909	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+909, 102, 789, 339, 712, 768, 977, 325, 175, 639, 941, 381, 713, 863, 9, 887, 63, 604, 187, 769, 66, 254, 888, 855, 241, 14, 85, 981, 532, 844, 75, 494, 797, 368
+
+ALGORITHM : Dijkstra's using Heap
+909, 686, 86, 77, 334, 720, 892, 747, 116, 8, 344, 395, 251, 643, 373, 630, 857, 961, 398, 487, 89, 215, 960, 785, 874, 942, 980, 386, 658, 413, 848, 670, 161, 718, 604, 187, 769, 66, 254, 888, 855, 241, 14, 85, 981, 532, 844, 75, 494, 797, 368
+
+ALGORITHM : Kruskal Max Spanning Tree 
+909, 102, 789, 339, 159, 465, 529, 104, 293, 702, 361, 562, 485, 450, 444, 777, 117, 340, 655, 181, 438, 776, 313, 399, 196, 453, 101, 756, 110, 863, 9, 887, 63, 604, 187, 769, 66, 254, 888, 855, 241, 14, 85, 981, 532, 844, 75, 494, 797, 368.
+Summary :
+Dijksra' W/out heap 	 took 0.000556 seconds.	&Found max capacity =	5945
+Dijksra' WITH heap 	 took 0.000237 seconds.	&Found max capacity =	5945
+Kruskal  MST algo 	 took 0.00106 seconds.	&Found max capacity =	5945
+
+=========	CASE 3	=========
+
+Finding max capacity path	from 878-------to--------62	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+62, 58, 508, 869, 405, 521, 410, 106, 951, 640, 129, 196, 399, 313, 776, 438, 181, 655, 340, 117, 777, 444, 450, 485, 562, 361, 702, 293, 104, 529, 465, 159, 339, 789, 102, 909, 686, 86, 77, 334, 720, 892, 747, 991, 522, 178, 986, 878
+
+ALGORITHM : Dijkstra's using Heap
+62, 58, 508, 869, 405, 521, 410, 106, 951, 640, 129, 196, 399, 313, 776, 438, 181, 655, 340, 117, 777, 444, 450, 485, 562, 361, 702, 293, 104, 529, 465, 159, 339, 789, 102, 909, 686, 86, 77, 334, 720, 892, 747, 991, 522, 178, 986, 878
+
+ALGORITHM : Kruskal Max Spanning Tree 
+62, 58, 508, 869, 405, 521, 410, 106, 951, 640, 129, 196, 399, 313, 776, 438, 181, 655, 340, 117, 777, 444, 450, 485, 562, 361, 702, 293, 104, 529, 465, 159, 339, 789, 102, 909, 686, 86, 77, 334, 720, 892, 747, 991, 522, 178, 986, 878.
+Summary :
+Dijksra' W/out heap 	 took 0.000298 seconds.	&Found max capacity =	7531
+Dijksra' WITH heap 	 took 0.00016 seconds.	&Found max capacity =	7531
+Kruskal  MST algo 	 took 0.001075 seconds.	&Found max capacity =	7531
+
+=========	CASE 4	=========
+
+Finding max capacity path	from 579-------to--------117	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+117, 340, 655, 181, 438, 776, 313, 399, 196, 453, 101, 756, 110, 863, 713, 381, 941, 639, 602, 53, 587, 579
+
+ALGORITHM : Dijkstra's using Heap
+117, 340, 655, 181, 438, 776, 313, 399, 196, 453, 101, 756, 110, 863, 713, 381, 941, 639, 602, 53, 587, 579
+
+ALGORITHM : Kruskal Max Spanning Tree 
+117, 777, 444, 450, 485, 562, 361, 702, 293, 104, 529, 465, 159, 339, 789, 102, 909, 686, 86, 77, 334, 720, 892, 747, 991, 522, 178, 986, 878, 956, 778, 544, 456, 175, 639, 602, 53, 587, 579.
+Summary :
+Dijksra' W/out heap 	 took 0.000198 seconds.	&Found max capacity =	6649
+Dijksra' WITH heap 	 took 0.000124 seconds.	&Found max capacity =	6649
+Kruskal  MST algo 	 took 0.0012 seconds.	&Found max capacity =	6649
+
+
+/*****************************************************************/
+/*******************		GRAPH 1		****************/
+/*****************************************************************/
+TOTAL number of edges = 	1500
+For Graph generation	0.011437 seconds.
+
+=========	CASE 0	=========
+
+Finding max capacity path	from 780-------to--------711	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+711, 335, 638, 172, 873, 880, 441, 369, 421, 256, 738, 900, 777, 151, 178, 935, 994, 214, 93, 173, 36, 445, 942, 923, 687, 152, 479, 324, 472, 446, 341, 825, 253, 775, 400, 420, 505, 780
+
+ALGORITHM : Dijkstra's using Heap
+711, 335, 638, 172, 873, 950, 894, 65, 758, 847, 855, 423, 82, 454, 766, 922, 262, 367, 464, 827, 145, 233, 210, 21, 257, 50, 705, 22, 570, 489, 152, 479, 324, 472, 446, 341, 825, 253, 775, 400, 420, 505, 780
+
+ALGORITHM : Kruskal Max Spanning Tree 
+711, 335, 638, 172, 873, 880, 441, 175, 501, 637, 676, 663, 86, 666, 615, 217, 777, 151, 178, 935, 994, 214, 93, 173, 36, 445, 942, 923, 687, 152, 479, 324, 472, 446, 341, 825, 253, 775, 400, 420, 505, 780.
+Summary :
+Dijksra' W/out heap 	 took 0.000776 seconds.	&Found max capacity =	6632
+Dijksra' WITH heap 	 took 0.000195 seconds.	&Found max capacity =	6632
+Kruskal  MST algo 	 took 0.000923 seconds.	&Found max capacity =	6632
+
+=========	CASE 1	=========
+
+Finding max capacity path	from 849-------to--------121	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+121, 46, 981, 261, 297, 850, 960, 94, 847, 758, 65, 894, 950, 873, 880, 441, 369, 421, 256, 738, 640, 908, 531, 849
+
+ALGORITHM : Dijkstra's using Heap
+121, 46, 981, 261, 297, 850, 960, 94, 847, 758, 65, 894, 950, 873, 880, 441, 369, 421, 256, 738, 640, 908, 531, 849
+
+ALGORITHM : Kruskal Max Spanning Tree 
+121, 46, 981, 261, 297, 850, 960, 94, 847, 758, 65, 894, 950, 873, 880, 441, 369, 421, 256, 738, 640, 908, 531, 849.
+Summary :
+Dijksra' W/out heap 	 took 0.000596 seconds.	&Found max capacity =	7525
+Dijksra' WITH heap 	 took 0.000254 seconds.	&Found max capacity =	7525
+Kruskal  MST algo 	 took 0.000842 seconds.	&Found max capacity =	7525
+
+=========	CASE 2	=========
+
+Finding max capacity path	from 131-------to--------179	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+179, 711, 335, 638, 172, 873, 880, 441, 175, 501, 244, 131
+
+ALGORITHM : Dijkstra's using Heap
+179, 711, 335, 638, 172, 873, 880, 441, 175, 501, 244, 131
+
+ALGORITHM : Kruskal Max Spanning Tree 
+179, 711, 335, 638, 172, 873, 880, 441, 175, 501, 244, 131.
+Summary :
+Dijksra' W/out heap 	 took 0.000191 seconds.	&Found max capacity =	6276
+Dijksra' WITH heap 	 took 0.000309 seconds.	&Found max capacity =	6276
+Kruskal  MST algo 	 took 0.000926 seconds.	&Found max capacity =	6276
+
+=========	CASE 3	=========
+
+Finding max capacity path	from 132-------to--------131	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+131, 244, 501, 637, 676, 663, 86, 666, 615, 217, 777, 151, 178, 935, 994, 214, 93, 173, 36, 445, 942, 923, 687, 152, 479, 324, 472, 446, 282, 920, 349, 484, 968, 411, 797, 85, 188, 595, 52, 126, 79, 198, 300, 763, 108, 703, 92, 132
+
+ALGORITHM : Dijkstra's using Heap
+131, 244, 501, 637, 676, 663, 86, 666, 615, 217, 777, 151, 178, 935, 994, 214, 93, 173, 36, 445, 942, 923, 687, 152, 479, 324, 472, 446, 282, 920, 349, 484, 968, 411, 797, 85, 188, 595, 52, 126, 79, 198, 300, 763, 108, 703, 92, 132
+
+ALGORITHM : Kruskal Max Spanning Tree 
+131, 244, 501, 637, 676, 663, 86, 666, 615, 217, 777, 151, 178, 935, 994, 214, 93, 173, 36, 445, 942, 923, 687, 152, 479, 324, 472, 446, 282, 920, 349, 484, 968, 411, 797, 85, 188, 595, 52, 126, 79, 198, 300, 763, 108, 703, 92, 132.
+Summary :
+Dijksra' W/out heap 	 took 0.001024 seconds.	&Found max capacity =	6276
+Dijksra' WITH heap 	 took 0.000439 seconds.	&Found max capacity =	6276
+Kruskal  MST algo 	 took 0.000902 seconds.	&Found max capacity =	6276
+
+=========	CASE 4	=========
+
+Finding max capacity path	from 470-------to--------469	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+469, 205, 97, 190, 948, 78, 529, 267, 875, 568, 772, 453, 954, 922, 766, 454, 82, 423, 855, 847, 758, 65, 894, 950, 873, 880, 441, 175, 501, 637, 676, 663, 86, 666, 615, 217, 777, 151, 178, 935, 994, 214, 93, 173, 36, 445, 942, 923, 687, 152, 489, 570, 22, 705, 50, 257, 21, 210, 233, 145, 827, 382, 493, 788, 565, 62, 571, 470
+
+ALGORITHM : Dijkstra's using Heap
+469, 205, 97, 190, 948, 78, 529, 267, 875, 568, 772, 453, 954, 922, 766, 454, 82, 423, 855, 847, 758, 65, 894, 950, 873, 880, 441, 175, 501, 637, 676, 663, 86, 666, 615, 217, 777, 151, 178, 935, 994, 214, 93, 173, 36, 445, 942, 923, 687, 152, 489, 570, 22, 705, 50, 257, 21, 210, 233, 145, 827, 382, 493, 788, 565, 62, 571, 470
+
+ALGORITHM : Kruskal Max Spanning Tree 
+469, 205, 97, 190, 948, 78, 529, 267, 875, 568, 772, 453, 954, 922, 766, 454, 82, 423, 855, 847, 758, 65, 894, 950, 873, 880, 441, 175, 501, 637, 676, 663, 86, 666, 615, 217, 777, 151, 178, 935, 994, 214, 93, 173, 36, 445, 942, 923, 687, 152, 489, 570, 22, 705, 50, 257, 21, 210, 233, 145, 827, 382, 493, 788, 565, 62, 571, 470.
+Summary :
+Dijksra' W/out heap 	 took 0.000697 seconds.	&Found max capacity =	7525
+Dijksra' WITH heap 	 took 0.000299 seconds.	&Found max capacity =	7525
+Kruskal  MST algo 	 took 0.000897 seconds.	&Found max capacity =	7525
+
+
+/*****************************************************************/
+/*******************		GRAPH 2		****************/
+/*****************************************************************/
+TOTAL number of edges = 	1500
+For Graph generation	0.009036 seconds.
+
+=========	CASE 0	=========
+
+Finding max capacity path	from 131-------to--------425	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+425, 914, 781, 391, 373, 302, 274, 788, 525, 942, 120, 157, 869, 767, 86, 265, 908, 917, 769, 131
+
+ALGORITHM : Dijkstra's using Heap
+425, 914, 781, 391, 373, 302, 274, 788, 525, 942, 120, 157, 869, 767, 86, 265, 908, 917, 769, 131
+
+ALGORITHM : Kruskal Max Spanning Tree 
+425, 914, 781, 391, 373, 302, 274, 788, 525, 942, 120, 157, 869, 767, 86, 265, 908, 917, 769, 131.
+Summary :
+Dijksra' W/out heap 	 took 8.4e-05 seconds.	&Found max capacity =	6333
+Dijksra' WITH heap 	 took 0.000258 seconds.	&Found max capacity =	6333
+Kruskal  MST algo 	 took 0.000848 seconds.	&Found max capacity =	6333
+
+=========	CASE 1	=========
+
+Finding max capacity path	from 204-------to--------474	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+474, 437, 520, 96, 599, 758, 359, 377, 204
+
+ALGORITHM : Dijkstra's using Heap
+474, 437, 520, 96, 599, 758, 359, 377, 204
+
+ALGORITHM : Kruskal Max Spanning Tree 
+474, 437, 520, 96, 599, 758, 359, 377, 204.
+Summary :
+Dijksra' W/out heap 	 took 8.8e-05 seconds.	&Found max capacity =	8339
+Dijksra' WITH heap 	 took 2.2e-05 seconds.	&Found max capacity =	8339
+Kruskal  MST algo 	 took 0.00075 seconds.	&Found max capacity =	8339
+
+=========	CASE 2	=========
+
+Finding max capacity path	from 4-------to--------375	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+375, 147, 925, 262, 360, 668, 109, 695, 671, 411, 121, 183, 880, 731, 612, 893, 521, 672, 288, 176, 328, 422, 374, 468, 143, 264, 128, 585, 42, 876, 852, 670, 676, 924, 927, 735, 4
+
+ALGORITHM : Dijkstra's using Heap
+375, 147, 925, 262, 250, 497, 193, 393, 109, 668, 118, 873, 35, 307, 351, 592, 747, 130, 915, 921, 605, 100, 367, 782, 601, 321, 968, 48, 880, 731, 612, 893, 521, 672, 288, 176, 328, 422, 374, 468, 143, 264, 128, 585, 42, 876, 852, 670, 676, 924, 927, 735, 4
+
+ALGORITHM : Kruskal Max Spanning Tree 
+375, 147, 925, 262, 360, 668, 109, 695, 892, 517, 137, 413, 502, 227, 967, 407, 618, 415, 309, 987, 778, 631, 305, 164, 258, 24, 572, 515, 217, 622, 846, 110, 114, 878, 816, 100, 605, 921, 915, 130, 627, 710, 514, 189, 138, 614, 482, 1, 8, 803, 288, 176, 328, 422, 374, 468, 143, 264, 128, 585, 42, 876, 852, 670, 676, 924, 927, 735, 4.
+Summary :
+Dijksra' W/out heap 	 took 0.000933 seconds.	&Found max capacity =	5556
+Dijksra' WITH heap 	 took 0.000315 seconds.	&Found max capacity =	5556
+Kruskal  MST algo 	 took 0.000783 seconds.	&Found max capacity =	5556
+
+=========	CASE 3	=========
+
+Finding max capacity path	from 4-------to--------839	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+839, 456, 790, 936, 775, 482, 1, 8, 803, 288, 176, 328, 422, 374, 468, 143, 264, 128, 585, 42, 876, 852, 670, 676, 924, 927, 735, 4
+
+ALGORITHM : Dijkstra's using Heap
+839, 456, 790, 936, 775, 482, 614, 138, 189, 514, 710, 627, 130, 915, 921, 605, 100, 367, 782, 601, 321, 968, 48, 880, 731, 612, 893, 521, 672, 288, 176, 328, 422, 374, 468, 143, 264, 128, 585, 42, 876, 852, 670, 676, 924, 927, 735, 4
+
+ALGORITHM : Kruskal Max Spanning Tree 
+839, 456, 790, 936, 775, 482, 1, 8, 803, 288, 176, 328, 422, 374, 468, 143, 264, 128, 585, 42, 876, 852, 670, 676, 924, 927, 735, 4.
+Summary :
+Dijksra' W/out heap 	 took 0.000318 seconds.	&Found max capacity =	5556
+Dijksra' WITH heap 	 took 0.000182 seconds.	&Found max capacity =	5556
+Kruskal  MST algo 	 took 0.000756 seconds.	&Found max capacity =	5556
+
+=========	CASE 4	=========
+
+Finding max capacity path	from 791-------to--------501	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+501, 420, 918, 159, 534, 721, 898, 766, 896, 665, 999, 326, 970, 861, 236, 562, 954, 477, 851, 428, 514, 189, 138, 614, 482, 775, 936, 790, 667, 178, 864, 930, 736, 256, 768, 366, 507, 681, 312, 44, 505, 438, 805, 607, 701, 508, 2, 602, 539, 254, 771, 6, 398, 883, 817, 810, 726, 77, 791
+
+ALGORITHM : Dijkstra's using Heap
+501, 420, 918, 159, 534, 721, 898, 766, 896, 665, 999, 326, 970, 861, 236, 562, 954, 477, 851, 428, 514, 189, 138, 614, 482, 775, 936, 790, 667, 178, 864, 930, 736, 256, 768, 366, 507, 681, 312, 44, 505, 438, 805, 607, 701, 508, 2, 602, 539, 254, 771, 6, 398, 883, 817, 810, 726, 77, 791
+
+ALGORITHM : Kruskal Max Spanning Tree 
+501, 420, 918, 159, 270, 981, 7, 244, 16, 41, 418, 708, 566, 419, 318, 38, 955, 337, 660, 574, 263, 548, 542, 395, 258, 24, 572, 515, 217, 622, 846, 110, 114, 878, 816, 100, 605, 921, 915, 130, 627, 710, 514, 189, 138, 614, 482, 775, 936, 790, 667, 178, 864, 930, 736, 256, 768, 366, 507, 681, 312, 44, 505, 438, 805, 607, 701, 508, 2, 602, 539, 254, 771, 6, 398, 883, 817, 810, 726, 77, 791.
+Summary :
+Dijksra' W/out heap 	 took 0.000313 seconds.	&Found max capacity =	7040
+Dijksra' WITH heap 	 took 0.000144 seconds.	&Found max capacity =	7040
+Kruskal  MST algo 	 took 0.000765 seconds.	&Found max capacity =	7040
+
+
+/*****************************************************************/
+/*******************		GRAPH 3		****************/
+/*****************************************************************/
+TOTAL number of edges = 	1500
+For Graph generation	0.008245 seconds.
+
+=========	CASE 0	=========
+
+Finding max capacity path	from 762-------to--------42	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+42, 580, 684, 270, 976, 154, 74, 239, 885, 942, 147, 7, 812, 456, 620, 288, 411, 46, 277, 145, 453, 916, 461, 338, 771, 992, 989, 497, 138, 852, 201, 179, 263, 762
+
+ALGORITHM : Dijkstra's using Heap
+42, 580, 684, 270, 976, 154, 74, 239, 885, 942, 147, 7, 812, 456, 620, 288, 411, 46, 277, 145, 453, 916, 461, 338, 771, 992, 989, 497, 138, 852, 201, 179, 263, 762
+
+ALGORITHM : Kruskal Max Spanning Tree 
+42, 580, 684, 270, 976, 154, 74, 239, 885, 942, 147, 7, 812, 456, 620, 288, 411, 46, 277, 145, 453, 916, 461, 338, 771, 992, 989, 497, 138, 852, 201, 179, 263, 762.
+Summary :
+Dijksra' W/out heap 	 took 0.000187 seconds.	&Found max capacity =	8320
+Dijksra' WITH heap 	 took 0.000119 seconds.	&Found max capacity =	8320
+Kruskal  MST algo 	 took 0.00073 seconds.	&Found max capacity =	8320
+
+=========	CASE 1	=========
+
+Finding max capacity path	from 166-------to--------219	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+219, 593, 200, 600, 951, 464, 820, 648, 934, 737, 981, 791, 929, 870, 292, 738, 141, 341, 667, 471, 247, 270, 976, 154, 73, 750, 351, 166
+
+ALGORITHM : Dijkstra's using Heap
+219, 593, 200, 600, 951, 464, 820, 648, 934, 737, 981, 791, 929, 870, 292, 738, 141, 341, 667, 471, 247, 270, 976, 154, 73, 750, 351, 166
+
+ALGORITHM : Kruskal Max Spanning Tree 
+219, 593, 200, 600, 951, 464, 829, 475, 402, 558, 617, 390, 805, 922, 276, 612, 233, 987, 61, 262, 947, 928, 208, 547, 480, 455, 193, 878, 51, 99, 802, 408, 601, 336, 660, 428, 518, 989, 992, 771, 338, 461, 916, 453, 145, 277, 46, 411, 288, 620, 456, 812, 7, 147, 942, 885, 239, 74, 154, 73, 750, 351, 166.
+Summary :
+Dijksra' W/out heap 	 took 0.00044 seconds.	&Found max capacity =	6745
+Dijksra' WITH heap 	 took 0.000192 seconds.	&Found max capacity =	6745
+Kruskal  MST algo 	 took 0.000725 seconds.	&Found max capacity =	6745
+
+=========	CASE 2	=========
+
+Finding max capacity path	from 150-------to--------759	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+759, 132, 731, 840, 872, 459, 318, 938, 853, 473, 176, 897, 231, 738, 141, 341, 561, 78, 97, 12, 326, 556, 499, 215, 150
+
+ALGORITHM : Dijkstra's using Heap
+759, 431, 769, 785, 483, 182, 316, 469, 669, 448, 857, 649, 585, 279, 385, 476, 321, 433, 932, 699, 726, 332, 31, 561, 78, 97, 12, 326, 556, 499, 215, 150
+
+ALGORITHM : Kruskal Max Spanning Tree 
+759, 132, 731, 840, 872, 459, 318, 938, 853, 473, 176, 897, 231, 738, 141, 341, 561, 78, 97, 12, 326, 556, 499, 215, 150.
+Summary :
+Dijksra' W/out heap 	 took 0.000396 seconds.	&Found max capacity =	6076
+Dijksra' WITH heap 	 took 0.000243 seconds.	&Found max capacity =	6076
+Kruskal  MST algo 	 took 0.000849 seconds.	&Found max capacity =	6076
+
+=========	CASE 3	=========
+
+Finding max capacity path	from 575-------to--------574	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+574, 17, 972, 888, 347, 472, 912, 746, 810, 170, 590, 962, 994, 131, 404, 316, 469, 669, 448, 451, 766, 437, 991, 804, 537, 299, 677, 906, 589, 977, 199, 869, 873, 862, 528, 866, 75, 2, 346, 762, 263, 179, 201, 852, 138, 497, 989, 518, 428, 660, 336, 601, 408, 802, 99, 51, 878, 193, 455, 480, 547, 208, 928, 947, 262, 575
+
+ALGORITHM : Dijkstra's using Heap
+574, 17, 972, 888, 347, 472, 912, 746, 810, 170, 590, 962, 994, 131, 404, 316, 469, 669, 448, 451, 766, 437, 991, 804, 537, 299, 677, 906, 589, 977, 199, 869, 873, 862, 528, 866, 75, 2, 346, 762, 263, 179, 201, 852, 138, 497, 989, 518, 428, 660, 336, 601, 408, 802, 99, 51, 878, 193, 455, 480, 547, 208, 928, 947, 262, 575
+
+ALGORITHM : Kruskal Max Spanning Tree 
+574, 17, 972, 888, 347, 472, 912, 746, 810, 170, 590, 962, 994, 131, 404, 316, 469, 669, 448, 451, 766, 437, 991, 804, 537, 299, 677, 906, 589, 977, 199, 869, 873, 862, 528, 866, 75, 2, 346, 762, 263, 179, 201, 852, 138, 497, 989, 518, 428, 660, 336, 601, 408, 802, 99, 51, 878, 193, 455, 480, 547, 208, 928, 947, 262, 575.
+Summary :
+Dijksra' W/out heap 	 took 0.000408 seconds.	&Found max capacity =	7896
+Dijksra' WITH heap 	 took 0.000168 seconds.	&Found max capacity =	7896
+Kruskal  MST algo 	 took 0.000738 seconds.	&Found max capacity =	7896
+
+=========	CASE 4	=========
+
+Finding max capacity path	from 910-------to--------235	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+235, 919, 867, 686, 474, 158, 180, 68, 678, 503, 570, 292, 738, 141, 341, 561, 78, 97, 910
+
+ALGORITHM : Dijkstra's using Heap
+235, 919, 867, 686, 474, 158, 180, 256, 909, 473, 176, 897, 231, 738, 141, 341, 561, 78, 97, 910
+
+ALGORITHM : Kruskal Max Spanning Tree 
+235, 919, 867, 686, 474, 158, 180, 256, 909, 473, 176, 897, 231, 738, 141, 341, 561, 78, 97, 910.
+Summary :
+Dijksra' W/out heap 	 took 0.000635 seconds.	&Found max capacity =	5559
+Dijksra' WITH heap 	 took 0.000242 seconds.	&Found max capacity =	5559
+Kruskal  MST algo 	 took 0.000713 seconds.	&Found max capacity =	5559
+
+
+/*****************************************************************/
+/*******************		GRAPH 4		****************/
+/*****************************************************************/
+TOTAL number of edges = 	1500
+For Graph generation	0.007486 seconds.
+
+=========	CASE 0	=========
+
+Finding max capacity path	from 510-------to--------638	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+638, 437, 920, 297, 249, 379, 474, 630, 876, 80, 585, 591, 332, 189, 262, 193, 510
+
+ALGORITHM : Dijkstra's using Heap
+638, 437, 920, 297, 249, 379, 474, 630, 876, 80, 585, 591, 332, 189, 262, 193, 510
+
+ALGORITHM : Kruskal Max Spanning Tree 
+638, 437, 920, 297, 249, 379, 474, 630, 876, 80, 585, 591, 332, 189, 262, 193, 510.
+Summary :
+Dijksra' W/out heap 	 took 0.000497 seconds.	&Found max capacity =	6800
+Dijksra' WITH heap 	 took 0.000246 seconds.	&Found max capacity =	6800
+Kruskal  MST algo 	 took 0.000681 seconds.	&Found max capacity =	6800
+
+=========	CASE 1	=========
+
+Finding max capacity path	from 41-------to--------524	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+524, 769, 701, 358, 136, 243, 654, 230, 163, 463, 151, 205, 928, 286, 697, 462, 395, 953, 167, 359, 944, 356, 581, 385, 538, 823, 418, 721, 755, 182, 530, 314, 999, 408, 890, 41
+
+ALGORITHM : Dijkstra's using Heap
+524, 35, 575, 374, 620, 734, 442, 63, 778, 860, 75, 640, 726, 316, 818, 357, 217, 258, 569, 120, 868, 98, 82, 883, 737, 930, 840, 729, 828, 853, 503, 299, 344, 233, 602, 293, 712, 914, 216, 371, 988, 581, 385, 538, 823, 418, 721, 755, 182, 530, 314, 999, 408, 890, 41
+
+ALGORITHM : Kruskal Max Spanning Tree 
+524, 769, 701, 358, 136, 243, 654, 230, 163, 463, 151, 244, 381, 188, 813, 697, 462, 395, 953, 167, 359, 944, 356, 581, 385, 538, 823, 418, 721, 755, 182, 530, 314, 999, 408, 890, 41.
+Summary :
+Dijksra' W/out heap 	 took 0.000491 seconds.	&Found max capacity =	6554
+Dijksra' WITH heap 	 took 0.000112 seconds.	&Found max capacity =	6554
+Kruskal  MST algo 	 took 0.00064 seconds.	&Found max capacity =	6554
+
+=========	CASE 2	=========
+
+Finding max capacity path	from 187-------to--------275	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+275, 780, 139, 582, 236, 598, 692, 89, 982, 777, 960, 483, 449, 122, 968, 305, 106, 811, 603, 339, 891, 856, 280, 205, 151, 463, 163, 230, 654, 243, 136, 358, 701, 769, 14, 537, 187
+
+ALGORITHM : Dijkstra's using Heap
+275, 780, 139, 582, 236, 598, 692, 89, 982, 777, 960, 483, 449, 122, 968, 305, 106, 811, 603, 339, 891, 856, 280, 205, 151, 463, 163, 230, 654, 243, 136, 358, 701, 769, 14, 537, 187
+
+ALGORITHM : Kruskal Max Spanning Tree 
+275, 780, 139, 582, 236, 598, 692, 89, 982, 777, 960, 483, 449, 122, 968, 305, 106, 811, 603, 339, 891, 856, 280, 205, 151, 463, 163, 230, 654, 243, 136, 358, 701, 769, 14, 537, 187.
+Summary :
+Dijksra' W/out heap 	 took 0.000778 seconds.	&Found max capacity =	4621
+Dijksra' WITH heap 	 took 0.00033 seconds.	&Found max capacity =	4621
+Kruskal  MST algo 	 took 0.000667 seconds.	&Found max capacity =	4621
+
+=========	CASE 3	=========
+
+Finding max capacity path	from 704-------to--------325	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+325, 274, 996, 905, 862, 657, 909, 676, 613, 615, 930, 737, 883, 82, 98, 868, 120, 569, 568, 439, 706, 901, 202, 989, 808, 502, 481, 123, 633, 29, 1, 936, 704
+
+ALGORITHM : Dijkstra's using Heap
+325, 274, 996, 905, 862, 657, 909, 676, 613, 615, 930, 737, 883, 82, 98, 868, 120, 569, 568, 439, 706, 901, 202, 989, 808, 502, 481, 123, 633, 29, 1, 936, 704
+
+ALGORITHM : Kruskal Max Spanning Tree 
+325, 274, 996, 905, 862, 657, 909, 676, 613, 615, 930, 737, 883, 82, 98, 868, 120, 569, 568, 439, 706, 901, 202, 989, 808, 502, 481, 123, 633, 29, 1, 936, 704.
+Summary :
+Dijksra' W/out heap 	 took 0.000179 seconds.	&Found max capacity =	7761
+Dijksra' WITH heap 	 took 9.7e-05 seconds.	&Found max capacity =	7761
+Kruskal  MST algo 	 took 0.000619 seconds.	&Found max capacity =	7761
+
+=========	CASE 4	=========
+
+Finding max capacity path	from 608-------to--------387	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+387, 178, 171, 679, 608
+
+ALGORITHM : Dijkstra's using Heap
+387, 178, 171, 679, 608
+
+ALGORITHM : Kruskal Max Spanning Tree 
+387, 178, 171, 679, 608.
+Summary :
+Dijksra' W/out heap 	 took 6.7e-05 seconds.	&Found max capacity =	10235
+Dijksra' WITH heap 	 took 1.3e-05 seconds.	&Found max capacity =	10235
+Kruskal  MST algo 	 took 0.000671 seconds.	&Found max capacity =	10235
+
+
+/*****************************************************************/
+/*******************		GRAPH 5		****************/
+/*****************************************************************/
+TOTAL number of edges = 	123363
+For Graph generation	0.113447 seconds.
+
+=========	CASE 0	=========
+
+Finding max capacity path	from 386-------to--------512	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+512, 742, 304, 398, 249, 736, 733, 150, 196, 936, 422, 70, 332, 799, 562, 245, 19, 431, 242, 42, 13, 714, 48, 311, 260, 551, 386
+
+ALGORITHM : Dijkstra's using Heap
+512, 742, 304, 398, 249, 736, 733, 150, 196, 936, 392, 975, 30, 834, 708, 42, 13, 714, 48, 311, 260, 551, 386
+
+ALGORITHM : Kruskal Max Spanning Tree 
+512, 742, 304, 398, 249, 736, 733, 150, 196, 936, 392, 975, 246, 206, 18, 180, 666, 813, 144, 990, 479, 5, 108, 347, 332, 799, 62, 400, 536, 155, 387, 395, 600, 140, 941, 275, 886, 467, 242, 42, 13, 714, 48, 311, 260, 551, 386.
+Summary :
+Dijksra' W/out heap 	 took 0.007883 seconds.	&Found max capacity =	16290
+Dijksra' WITH heap 	 took 0.007751 seconds.	&Found max capacity =	16290
+Kruskal  MST algo 	 took 0.035455 seconds.	&Found max capacity =	16290
+
+=========	CASE 1	=========
+
+Finding max capacity path	from 728-------to--------221	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+221, 597, 41, 948, 958, 795, 45, 60, 483, 149, 492, 198, 891, 3, 240, 465, 122, 727, 57, 881, 43, 725, 332, 799, 62, 400, 536, 155, 387, 395, 600, 140, 941, 728
+
+ALGORITHM : Dijkstra's using Heap
+221, 597, 41, 948, 958, 795, 45, 60, 483, 149, 492, 198, 891, 3, 240, 465, 122, 727, 57, 881, 43, 725, 332, 799, 62, 400, 536, 155, 387, 395, 600, 140, 941, 728
+
+ALGORITHM : Kruskal Max Spanning Tree 
+221, 597, 41, 948, 958, 795, 45, 60, 483, 149, 492, 198, 891, 3, 240, 465, 122, 727, 57, 881, 43, 725, 332, 799, 62, 400, 536, 155, 387, 395, 600, 140, 941, 728.
+Summary :
+Dijksra' W/out heap 	 took 0.009583 seconds.	&Found max capacity =	16278
+Dijksra' WITH heap 	 took 0.009275 seconds.	&Found max capacity =	16278
+Kruskal  MST algo 	 took 0.0326 seconds.	&Found max capacity =	16278
+
+=========	CASE 2	=========
+
+Finding max capacity path	from 452-------to--------68	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+68, 534, 4, 835, 891, 198, 749, 583, 403, 163, 582, 655, 670, 358, 248, 803, 616, 452
+
+ALGORITHM : Dijkstra's using Heap
+68, 534, 140, 72, 308, 315, 77, 507, 66, 207, 943, 873, 233, 465, 240, 900, 640, 379, 16, 150, 772, 915, 43, 725, 332, 799, 562, 245, 165, 616, 452
+
+ALGORITHM : Kruskal Max Spanning Tree 
+68, 534, 4, 996, 279, 907, 18, 180, 666, 813, 144, 990, 479, 5, 108, 347, 332, 799, 562, 245, 165, 616, 452.
+Summary :
+Dijksra' W/out heap 	 took 0.007697 seconds.	&Found max capacity =	16199
+Dijksra' WITH heap 	 took 0.008625 seconds.	&Found max capacity =	16199
+Kruskal  MST algo 	 took 0.032095 seconds.	&Found max capacity =	16199
+
+=========	CASE 3	=========
+
+Finding max capacity path	from 425-------to--------109	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+109, 501, 716, 35, 422, 936, 392, 975, 30, 753, 425
+
+ALGORITHM : Dijkstra's using Heap
+109, 501, 716, 35, 422, 936, 392, 975, 30, 753, 425
+
+ALGORITHM : Kruskal Max Spanning Tree 
+109, 501, 716, 35, 422, 936, 392, 975, 30, 753, 425.
+Summary :
+Dijksra' W/out heap 	 took 0.001442 seconds.	&Found max capacity =	16326
+Dijksra' WITH heap 	 took 0.001144 seconds.	&Found max capacity =	16326
+Kruskal  MST algo 	 took 0.032231 seconds.	&Found max capacity =	16326
+
+=========	CASE 4	=========
+
+Finding max capacity path	from 151-------to--------931	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+931, 202, 315, 308, 72, 91, 477, 90, 58, 723, 151
+
+ALGORITHM : Dijkstra's using Heap
+931, 876, 884, 714, 48, 311, 382, 832, 149, 79, 723, 151
+
+ALGORITHM : Kruskal Max Spanning Tree 
+931, 202, 291, 13, 42, 242, 467, 886, 275, 941, 140, 600, 395, 387, 155, 536, 400, 62, 799, 332, 725, 43, 881, 57, 727, 122, 465, 240, 3, 891, 198, 492, 149, 79, 723, 151.
+Summary :
+Dijksra' W/out heap 	 took 0.005109 seconds.	&Found max capacity =	16174
+Dijksra' WITH heap 	 took 0.007903 seconds.	&Found max capacity =	16174
+Kruskal  MST algo 	 took 0.031919 seconds.	&Found max capacity =	16174
+
+
+/*****************************************************************/
+/*******************		GRAPH 6		****************/
+/*****************************************************************/
+TOTAL number of edges = 	123342
+For Graph generation	0.07181 seconds.
+
+=========	CASE 0	=========
+
+Finding max capacity path	from 829-------to--------849	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+849, 281, 212, 413, 191, 611, 362, 300, 21, 465, 471, 622, 177, 42, 13, 70, 121, 686, 691, 174, 461, 493, 126, 474, 829
+
+ALGORITHM : Dijkstra's using Heap
+849, 281, 212, 413, 191, 611, 362, 300, 21, 465, 471, 622, 177, 42, 13, 70, 121, 686, 691, 174, 461, 493, 126, 474, 829
+
+ALGORITHM : Kruskal Max Spanning Tree 
+849, 281, 212, 413, 191, 611, 362, 300, 21, 465, 471, 622, 177, 42, 13, 70, 121, 686, 691, 174, 461, 493, 126, 474, 829.
+Summary :
+Dijksra' W/out heap 	 took 0.007358 seconds.	&Found max capacity =	16293
+Dijksra' WITH heap 	 took 0.007491 seconds.	&Found max capacity =	16293
+Kruskal  MST algo 	 took 0.033347 seconds.	&Found max capacity =	16293
+
+=========	CASE 1	=========
+
+Finding max capacity path	from 979-------to--------550	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+550, 625, 505, 863, 127, 412, 492, 194, 286, 443, 640, 553, 566, 172, 472, 383, 738, 382, 441, 671, 619, 979
+
+ALGORITHM : Dijkstra's using Heap
+550, 209, 202, 426, 733, 38, 2, 612, 316, 472, 383, 738, 382, 441, 671, 619, 979
+
+ALGORITHM : Kruskal Max Spanning Tree 
+550, 209, 562, 648, 17, 553, 566, 172, 472, 316, 918, 695, 218, 300, 21, 465, 471, 622, 177, 178, 671, 619, 979.
+Summary :
+Dijksra' W/out heap 	 took 0.008093 seconds.	&Found max capacity =	16243
+Dijksra' WITH heap 	 took 0.002519 seconds.	&Found max capacity =	16243
+Kruskal  MST algo 	 took 0.033478 seconds.	&Found max capacity =	16243
+
+=========	CASE 2	=========
+
+Finding max capacity path	from 374-------to--------904	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+904, 209, 562, 648, 17, 553, 566, 435, 922, 822, 560, 374
+
+ALGORITHM : Dijkstra's using Heap
+904, 209, 562, 648, 17, 553, 566, 435, 922, 822, 560, 374
+
+ALGORITHM : Kruskal Max Spanning Tree 
+904, 209, 562, 648, 17, 553, 566, 435, 922, 822, 560, 374.
+Summary :
+Dijksra' W/out heap 	 took 0.012004 seconds.	&Found max capacity =	16243
+Dijksra' WITH heap 	 took 0.011582 seconds.	&Found max capacity =	16243
+Kruskal  MST algo 	 took 0.03308 seconds.	&Found max capacity =	16243
+
+=========	CASE 3	=========
+
+Finding max capacity path	from 973-------to--------993	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+993, 220, 505, 625, 550, 209, 562, 270, 251, 568, 48, 489, 573, 104, 950, 80, 671, 587, 678, 97, 161, 443, 973
+
+ALGORITHM : Dijkstra's using Heap
+993, 220, 505, 642, 237, 75, 458, 297, 356, 947, 709, 403, 307, 165, 252, 783, 174, 496, 332, 221, 592, 11, 858, 552, 584, 150, 614, 122, 655, 508, 610, 232, 536, 213, 161, 443, 973
+
+ALGORITHM : Kruskal Max Spanning Tree 
+993, 220, 505, 863, 127, 412, 492, 580, 983, 649, 443, 973.
+Summary :
+Dijksra' W/out heap 	 took 0.013771 seconds.	&Found max capacity =	16116
+Dijksra' WITH heap 	 took 0.013292 seconds.	&Found max capacity =	16116
+Kruskal  MST algo 	 took 0.032741 seconds.	&Found max capacity =	16116
+
+=========	CASE 4	=========
+
+Finding max capacity path	from 613-------to--------830	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+830, 678, 97, 871, 787, 710, 89, 929, 673, 386, 34, 54, 150, 614, 478, 918, 316, 472, 761, 448, 712, 679, 426, 171, 124, 372, 8, 808, 17, 553, 640, 443, 649, 512, 58, 340, 751, 758, 613
+
+ALGORITHM : Dijkstra's using Heap
+830, 170, 958, 421, 336, 423, 49, 207, 476, 191, 611, 362, 300, 21, 465, 471, 622, 177, 11, 592, 607, 116, 294, 156, 239, 61, 664, 395, 822, 922, 58, 340, 751, 758, 613
+
+ALGORITHM : Kruskal Max Spanning Tree 
+830, 678, 587, 671, 178, 177, 622, 471, 465, 21, 300, 218, 695, 918, 316, 472, 172, 566, 435, 922, 58, 340, 751, 758, 613.
+Summary :
+Dijksra' W/out heap 	 took 0.003218 seconds.	&Found max capacity =	16273
+Dijksra' WITH heap 	 took 0.004174 seconds.	&Found max capacity =	16273
+Kruskal  MST algo 	 took 0.03304 seconds.	&Found max capacity =	16273
+
+
+/*****************************************************************/
+/*******************		GRAPH 7		****************/
+/*****************************************************************/
+TOTAL number of edges = 	123358
+For Graph generation	0.07353 seconds.
+
+=========	CASE 0	=========
+
+Finding max capacity path	from 143-------to--------958	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+958, 96, 436, 700, 783, 143
+
+ALGORITHM : Dijkstra's using Heap
+958, 890, 220, 294, 922, 998, 895, 750, 963, 794, 473, 380, 416, 117, 314, 700, 783, 143
+
+ALGORITHM : Kruskal Max Spanning Tree 
+958, 890, 220, 69, 53, 70, 833, 185, 737, 280, 736, 869, 783, 143.
+Summary :
+Dijksra' W/out heap 	 took 0.006187 seconds.	&Found max capacity =	16188
+Dijksra' WITH heap 	 took 0.002606 seconds.	&Found max capacity =	16188
+Kruskal  MST algo 	 took 0.032217 seconds.	&Found max capacity =	16188
+
+=========	CASE 1	=========
+
+Finding max capacity path	from 86-------to--------98	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+98, 426, 652, 182, 992, 69, 53, 70, 715, 11, 179, 218, 753, 359, 563, 86
+
+ALGORITHM : Dijkstra's using Heap
+98, 426, 652, 182, 992, 69, 53, 70, 715, 11, 179, 218, 753, 359, 563, 86
+
+ALGORITHM : Kruskal Max Spanning Tree 
+98, 426, 652, 182, 992, 69, 53, 70, 715, 11, 179, 218, 753, 359, 563, 86.
+Summary :
+Dijksra' W/out heap 	 took 0.003586 seconds.	&Found max capacity =	16307
+Dijksra' WITH heap 	 took 0.00344 seconds.	&Found max capacity =	16307
+Kruskal  MST algo 	 took 0.041312 seconds.	&Found max capacity =	16307
+
+=========	CASE 2	=========
+
+Finding max capacity path	from 375-------to--------929	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+929, 463, 575, 125, 781, 69, 220, 890, 958, 148, 964, 283, 32, 19, 189, 695, 813, 375
+
+ALGORITHM : Dijkstra's using Heap
+929, 463, 575, 125, 781, 69, 220, 890, 958, 148, 964, 283, 32, 19, 189, 695, 813, 375
+
+ALGORITHM : Kruskal Max Spanning Tree 
+929, 463, 575, 125, 565, 173, 445, 366, 599, 834, 802, 749, 264, 766, 176, 493, 877, 948, 149, 433, 515, 54, 170, 359, 753, 218, 179, 11, 715, 70, 53, 69, 220, 890, 958, 148, 964, 283, 32, 19, 189, 695, 813, 375.
+Summary :
+Dijksra' W/out heap 	 took 0.008649 seconds.	&Found max capacity =	16293
+Dijksra' WITH heap 	 took 0.008498 seconds.	&Found max capacity =	16293
+Kruskal  MST algo 	 took 0.037222 seconds.	&Found max capacity =	16293
+
+=========	CASE 3	=========
+
+Finding max capacity path	from 939-------to--------378	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+378, 911, 743, 161, 20, 720, 816, 298, 677, 548, 375, 813, 160, 4, 357, 438, 218, 179, 11, 715, 70, 51, 142, 258, 776, 533, 449, 600, 939
+
+ALGORITHM : Dijkstra's using Heap
+378, 911, 743, 161, 20, 720, 418, 632, 518, 728, 899, 634, 625, 289, 826, 534, 56, 513, 258, 776, 533, 449, 600, 939
+
+ALGORITHM : Kruskal Max Spanning Tree 
+378, 911, 743, 161, 20, 755, 209, 365, 309, 149, 433, 515, 54, 170, 359, 753, 218, 179, 11, 715, 70, 53, 69, 992, 182, 652, 426, 640, 171, 391, 286, 305, 56, 513, 258, 776, 533, 449, 600, 939.
+Summary :
+Dijksra' W/out heap 	 took 0.008972 seconds.	&Found max capacity =	16233
+Dijksra' WITH heap 	 took 0.008981 seconds.	&Found max capacity =	16233
+Kruskal  MST algo 	 took 0.032048 seconds.	&Found max capacity =	16233
+
+=========	CASE 4	=========
+
+Finding max capacity path	from 397-------to--------481	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+481, 304, 687, 279, 13, 290, 52, 230, 420, 397
+
+ALGORITHM : Dijkstra's using Heap
+481, 495, 730, 661, 515, 54, 43, 52, 230, 420, 397
+
+ALGORITHM : Kruskal Max Spanning Tree 
+481, 495, 730, 247, 292, 949, 781, 125, 565, 173, 445, 366, 599, 834, 802, 749, 264, 766, 176, 493, 877, 948, 149, 433, 515, 54, 43, 540, 10, 230, 420, 397.
+Summary :
+Dijksra' W/out heap 	 took 0.00676 seconds.	&Found max capacity =	16252
+Dijksra' WITH heap 	 took 0.002442 seconds.	&Found max capacity =	16252
+Kruskal  MST algo 	 took 0.056988 seconds.	&Found max capacity =	16252
+
+
+/*****************************************************************/
+/*******************		GRAPH 8		****************/
+/*****************************************************************/
+TOTAL number of edges = 	123509
+For Graph generation	0.074632 seconds.
+
+=========	CASE 0	=========
+
+Finding max capacity path	from 374-------to--------224	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+224, 879, 529, 87, 435, 289, 583, 111, 69, 694, 795, 703, 18, 724, 143, 149, 657, 790, 8, 29, 774, 915, 353, 382, 552, 399, 377, 278, 269, 374
+
+ALGORITHM : Dijkstra's using Heap
+224, 879, 320, 903, 101, 177, 20, 0, 421, 515, 192, 273, 887, 9, 432, 583, 658, 12, 470, 683, 136, 278, 269, 374
+
+ALGORITHM : Kruskal Max Spanning Tree 
+224, 879, 529, 651, 303, 454, 516, 362, 91, 105, 938, 613, 241, 887, 108, 556, 786, 213, 420, 484, 674, 54, 966, 358, 20, 177, 386, 831, 589, 675, 835, 32, 223, 128, 216, 22, 531, 491, 26, 493, 159, 486, 339, 278, 269, 374.
+Summary :
+Dijksra' W/out heap 	 took 0.003843 seconds.	&Found max capacity =	16191
+Dijksra' WITH heap 	 took 0.005595 seconds.	&Found max capacity =	16191
+Kruskal  MST algo 	 took 0.032832 seconds.	&Found max capacity =	16191
+
+=========	CASE 1	=========
+
+Finding max capacity path	from 716-------to--------150	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+150, 643, 435, 87, 963, 122, 431, 635, 477, 189, 53, 208, 455, 877, 172, 630, 73, 633, 820, 376, 166, 70, 608, 15, 716
+
+ALGORITHM : Dijkstra's using Heap
+150, 643, 435, 87, 529, 651, 303, 454, 516, 362, 91, 105, 938, 613, 712, 419, 917, 491, 531, 22, 216, 128, 284, 570, 384, 260, 612, 368, 633, 820, 376, 166, 70, 608, 15, 716
+
+ALGORITHM : Kruskal Max Spanning Tree 
+150, 643, 435, 87, 963, 122, 431, 635, 477, 189, 53, 399, 404, 83, 499, 140, 769, 38, 286, 727, 84, 579, 103, 22, 216, 128, 284, 570, 384, 260, 612, 368, 633, 820, 376, 166, 70, 608, 15, 716.
+Summary :
+Dijksra' W/out heap 	 took 0.001087 seconds.	&Found max capacity =	16297
+Dijksra' WITH heap 	 took 0.003993 seconds.	&Found max capacity =	16297
+Kruskal  MST algo 	 took 0.032419 seconds.	&Found max capacity =	16297
+
+=========	CASE 2	=========
+
+Finding max capacity path	from 21-------to--------968	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+968, 694, 69, 111, 190, 470, 551, 21
+
+ALGORITHM : Dijkstra's using Heap
+968, 694, 795, 703, 643, 532, 908, 2, 182, 562, 118, 946, 110, 551, 21
+
+ALGORITHM : Kruskal Max Spanning Tree 
+968, 694, 342, 61, 101, 177, 20, 358, 966, 54, 674, 551, 21.
+Summary :
+Dijksra' W/out heap 	 took 0.007471 seconds.	&Found max capacity =	16118
+Dijksra' WITH heap 	 took 0.008831 seconds.	&Found max capacity =	16118
+Kruskal  MST algo 	 took 0.031956 seconds.	&Found max capacity =	16118
+
+=========	CASE 3	=========
+
+Finding max capacity path	from 690-------to--------116	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+116, 390, 157, 312, 943, 387, 37, 581, 714, 284, 686, 688, 205, 79, 511, 48, 402, 229, 143, 149, 177, 155, 833, 215, 426, 46, 367, 745, 306, 803, 644, 690
+
+ALGORITHM : Dijkstra's using Heap
+116, 263, 69, 694, 795, 703, 699, 119, 583, 432, 426, 46, 367, 745, 306, 803, 644, 690
+
+ALGORITHM : Kruskal Max Spanning Tree 
+116, 263, 69, 798, 110, 551, 674, 54, 966, 358, 20, 177, 386, 831, 589, 675, 835, 46, 367, 745, 306, 803, 644, 690.
+Summary :
+Dijksra' W/out heap 	 took 0.003216 seconds.	&Found max capacity =	16269
+Dijksra' WITH heap 	 took 0.001857 seconds.	&Found max capacity =	16269
+Kruskal  MST algo 	 took 0.03231 seconds.	&Found max capacity =	16269
+
+=========	CASE 4	=========
+
+Finding max capacity path	from 657-------to--------115	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+115, 3, 318, 593, 577, 223, 32, 835, 675, 589, 831, 386, 177, 149, 657
+
+ALGORITHM : Dijkstra's using Heap
+115, 3, 318, 593, 577, 223, 32, 835, 675, 589, 831, 386, 177, 149, 657
+
+ALGORITHM : Kruskal Max Spanning Tree 
+115, 3, 318, 593, 577, 223, 32, 835, 675, 589, 831, 386, 177, 149, 657.
+Summary :
+Dijksra' W/out heap 	 took 0.003827 seconds.	&Found max capacity =	16310
+Dijksra' WITH heap 	 took 0.003843 seconds.	&Found max capacity =	16310
+Kruskal  MST algo 	 took 0.031941 seconds.	&Found max capacity =	16310
+
+
+/*****************************************************************/
+/*******************		GRAPH 9		****************/
+/*****************************************************************/
+TOTAL number of edges = 	123362
+For Graph generation	0.071974 seconds.
+
+=========	CASE 0	=========
+
+Finding max capacity path	from 344-------to--------747	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+747, 550, 270, 23, 284, 448, 378, 712, 634, 987, 170, 590, 344
+
+ALGORITHM : Dijkstra's using Heap
+747, 550, 270, 873, 944, 330, 867, 471, 180, 377, 0, 504, 221, 50, 200, 887, 597, 806, 606, 253, 384, 400, 813, 126, 287, 128, 438, 759, 340, 26, 779, 605, 103, 414, 280, 708, 513, 220, 456, 609, 632, 987, 170, 590, 344
+
+ALGORITHM : Kruskal Max Spanning Tree 
+747, 550, 270, 23, 284, 448, 893, 566, 97, 228, 648, 869, 886, 711, 737, 978, 8, 628, 1, 435, 180, 377, 388, 467, 113, 148, 891, 82, 834, 359, 218, 175, 49, 182, 36, 429, 507, 245, 177, 712, 634, 987, 170, 590, 344.
+Summary :
+Dijksra' W/out heap 	 took 0.002092 seconds.	&Found max capacity =	16279
+Dijksra' WITH heap 	 took 0.005919 seconds.	&Found max capacity =	16279
+Kruskal  MST algo 	 took 0.033261 seconds.	&Found max capacity =	16279
+
+=========	CASE 1	=========
+
+Finding max capacity path	from 174-------to--------983	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+983, 451, 812, 157, 330, 867, 471, 180, 377, 141, 551, 349, 71, 634, 712, 260, 86, 601, 677, 528, 174
+
+ALGORITHM : Dijkstra's using Heap
+983, 451, 812, 157, 330, 315, 70, 251, 102, 30, 321, 530, 234, 802, 510, 386, 97, 228, 648, 869, 886, 711, 737, 978, 8, 628, 1, 435, 180, 377, 141, 551, 349, 71, 177, 712, 260, 86, 601, 677, 528, 174
+
+ALGORITHM : Kruskal Max Spanning Tree 
+983, 451, 812, 157, 330, 315, 70, 251, 102, 30, 321, 530, 234, 802, 510, 386, 97, 228, 648, 869, 886, 711, 737, 978, 8, 628, 1, 435, 180, 377, 388, 467, 113, 148, 891, 82, 834, 359, 218, 175, 49, 182, 36, 429, 507, 245, 177, 712, 260, 86, 601, 677, 528, 174.
+Summary :
+Dijksra' W/out heap 	 took 0.013745 seconds.	&Found max capacity =	16154
+Dijksra' WITH heap 	 took 0.013424 seconds.	&Found max capacity =	16154
+Kruskal  MST algo 	 took 0.033036 seconds.	&Found max capacity =	16154
+
+=========	CASE 2	=========
+
+Finding max capacity path	from 252-------to--------454	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+454, 742, 963, 316, 44, 803, 293, 867, 471, 180, 377, 141, 551, 349, 71, 634, 987, 170, 252
+
+ALGORITHM : Dijkstra's using Heap
+454, 742, 963, 316, 44, 803, 293, 867, 471, 180, 435, 1, 628, 8, 978, 737, 711, 886, 869, 648, 228, 991, 726, 692, 860, 662, 912, 29, 669, 789, 283, 401, 876, 148, 113, 389, 176, 480, 23, 284, 448, 378, 712, 634, 987, 170, 252
+
+ALGORITHM : Kruskal Max Spanning Tree 
+454, 438, 128, 287, 126, 182, 36, 429, 507, 245, 177, 712, 634, 987, 170, 252.
+Summary :
+Dijksra' W/out heap 	 took 0.007487 seconds.	&Found max capacity =	16279
+Dijksra' WITH heap 	 took 0.006059 seconds.	&Found max capacity =	16279
+Kruskal  MST algo 	 took 0.036841 seconds.	&Found max capacity =	16279
+
+=========	CASE 3	=========
+
+Finding max capacity path	from 552-------to--------370	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+370, 893, 566, 97, 228, 648, 869, 886, 711, 737, 978, 8, 628, 1, 435, 180, 931, 576, 738, 135, 774, 481, 810, 552
+
+ALGORITHM : Dijkstra's using Heap
+370, 893, 566, 97, 228, 648, 869, 886, 711, 737, 978, 8, 628, 1, 435, 180, 931, 576, 738, 135, 774, 481, 810, 552
+
+ALGORITHM : Kruskal Max Spanning Tree 
+370, 893, 566, 97, 228, 648, 869, 886, 711, 737, 978, 8, 628, 1, 435, 180, 931, 576, 738, 135, 774, 481, 810, 552.
+Summary :
+Dijksra' W/out heap 	 took 0.00676 seconds.	&Found max capacity =	16301
+Dijksra' WITH heap 	 took 0.00599 seconds.	&Found max capacity =	16301
+Kruskal  MST algo 	 took 0.033282 seconds.	&Found max capacity =	16301
+
+=========	CASE 4	=========
+
+Finding max capacity path	from 163-------to--------935	 printed in reverse order
+
+ALGORITHM : Dijkstra's without Heap
+935, 314, 50, 221, 504, 0, 377, 180, 435, 1, 628, 8, 978, 737, 711, 886, 869, 648, 228, 97, 386, 510, 802, 463, 558, 480, 547, 12, 950, 279, 163
+
+ALGORITHM : Dijkstra's using Heap
+935, 314, 50, 221, 504, 0, 377, 180, 435, 1, 628, 8, 978, 737, 711, 886, 869, 648, 228, 97, 386, 510, 802, 463, 558, 480, 547, 12, 950, 279, 163
+
+ALGORITHM : Kruskal Max Spanning Tree 
+935, 314, 50, 221, 504, 0, 377, 180, 435, 1, 628, 8, 978, 737, 711, 886, 869, 648, 228, 97, 386, 510, 802, 463, 558, 480, 547, 12, 950, 279, 163.
+Summary :
+Dijksra' W/out heap 	 took 0.005566 seconds.	&Found max capacity =	16302
+Dijksra' WITH heap 	 took 0.0039 seconds.	&Found max capacity =	16302
+Kruskal  MST algo 	 took 0.033588 seconds.	&Found max capacity =	16302
+Reached End of Code Successfully 

@@ -1,0 +1,208 @@
+seed =	3543243574
+TOTAL number of edges = 	15000
+TOTAL number of edges = 	15000
+TOTAL number of edges = 	15000
+TOTAL number of edges = 	14999
+TOTAL number of edges = 	15000
+For Sparse graph generation	0.387493 seconds.
+TOTAL number of edges = 	3159728
+TOTAL number of edges = 	3160123
+TOTAL number of edges = 	3160081
+TOTAL number of edges = 	3159149
+TOTAL number of edges = 	3158591
+For dense graph generation	68.7547 seconds.
+
+
+CASE 0 )  sparse_graph_1
+
+0)	Max capacity in the path	from 1818----to------>175
+Dijksra' W/out heap 	0.016587 seconds.	 Max capacity =	11515
+Dijksra' WITH heap 	0.005106 seconds.	 Max capacity =	11515
+Kruskal MST algo 	0.00327 seconds.	 Max capacity =	11515
+
+1)	Max capacity in the path	from 4304----to------>4586
+Dijksra' W/out heap 	0.011572 seconds.	 Max capacity =	12370
+Dijksra' WITH heap 	0.003739 seconds.	 Max capacity =	12370
+Kruskal MST algo 	0.003293 seconds.	 Max capacity =	12370
+
+2)	Max capacity in the path	from 3063----to------>2316
+Dijksra' W/out heap 	0.01642 seconds.	 Max capacity =	9527
+Dijksra' WITH heap 	0.004904 seconds.	 Max capacity =	9527
+Kruskal MST algo 	0.003152 seconds.	 Max capacity =	9527
+
+3)	Max capacity in the path	from 367----to------>1609
+Dijksra' W/out heap 	0.008908 seconds.	 Max capacity =	12139
+Dijksra' WITH heap 	0.001018 seconds.	 Max capacity =	12139
+Kruskal MST algo 	0.003136 seconds.	 Max capacity =	12139
+
+4)	Max capacity in the path	from 4100----to------>1777
+Dijksra' W/out heap 	0.010105 seconds.	 Max capacity =	12013
+Dijksra' WITH heap 	0.001071 seconds.	 Max capacity =	12013
+Kruskal MST algo 	0.003272 seconds.	 Max capacity =	12013
+
+
+CASE 1 )  sparse_graph_2
+
+0)	Max capacity in the path	from 3067----to------>4010
+Dijksra' W/out heap 	0.006974 seconds.	 Max capacity =	12663
+Dijksra' WITH heap 	0.002145 seconds.	 Max capacity =	12663
+Kruskal MST algo 	0.003314 seconds.	 Max capacity =	12663
+
+1)	Max capacity in the path	from 1461----to------>4788
+Dijksra' W/out heap 	0.007283 seconds.	 Max capacity =	12595
+Dijksra' WITH heap 	0.002326 seconds.	 Max capacity =	12595
+Kruskal MST algo 	0.003302 seconds.	 Max capacity =	12595
+
+2)	Max capacity in the path	from 4088----to------>2456
+Dijksra' W/out heap 	0.013758 seconds.	 Max capacity =	11917
+Dijksra' WITH heap 	0.004349 seconds.	 Max capacity =	11917
+Kruskal MST algo 	0.003412 seconds.	 Max capacity =	11917
+
+3)	Max capacity in the path	from 3278----to------>2113
+Dijksra' W/out heap 	0.0121 seconds.	 Max capacity =	8766
+Dijksra' WITH heap 	0.000162 seconds.	 Max capacity =	8766
+Kruskal MST algo 	0.003278 seconds.	 Max capacity =	8766
+
+4)	Max capacity in the path	from 4683----to------>3924
+Dijksra' W/out heap 	0.006495 seconds.	 Max capacity =	11361
+Dijksra' WITH heap 	0.001612 seconds.	 Max capacity =	11361
+Kruskal MST algo 	0.003266 seconds.	 Max capacity =	11361
+
+
+CASE 2 )  sparse_graph_3
+
+0)	Max capacity in the path	from 723----to------>2629
+Dijksra' W/out heap 	0.008817 seconds.	 Max capacity =	11977
+Dijksra' WITH heap 	0.00253 seconds.	 Max capacity =	11977
+Kruskal MST algo 	0.003324 seconds.	 Max capacity =	11977
+
+1)	Max capacity in the path	from 4295----to------>977
+Dijksra' W/out heap 	0.004856 seconds.	 Max capacity =	12724
+Dijksra' WITH heap 	0.001563 seconds.	 Max capacity =	12724
+Kruskal MST algo 	0.003286 seconds.	 Max capacity =	12724
+
+2)	Max capacity in the path	from 1486----to------>1515
+Dijksra' W/out heap 	0.01623 seconds.	 Max capacity =	11088
+Dijksra' WITH heap 	0.005193 seconds.	 Max capacity =	11088
+Kruskal MST algo 	0.003173 seconds.	 Max capacity =	11088
+
+3)	Max capacity in the path	from 1284----to------>172
+Dijksra' W/out heap 	0.00611 seconds.	 Max capacity =	11893
+Dijksra' WITH heap 	0.000158 seconds.	 Max capacity =	11893
+Kruskal MST algo 	0.003857 seconds.	 Max capacity =	11893
+
+4)	Max capacity in the path	from 1175----to------>2519
+Dijksra' W/out heap 	0.017302 seconds.	 Max capacity =	11639
+Dijksra' WITH heap 	0.006749 seconds.	 Max capacity =	11639
+Kruskal MST algo 	0.00344 seconds.	 Max capacity =	11639
+
+
+CASE 3 )  sparse_graph_4
+
+0)	Max capacity in the path	from 1747----to------>4346
+Dijksra' W/out heap 	0.003311 seconds.	 Max capacity =	11518
+Dijksra' WITH heap 	0.001418 seconds.	 Max capacity =	11518
+Kruskal MST algo 	0.004405 seconds.	 Max capacity =	11518
+
+1)	Max capacity in the path	from 2694----to------>1052
+Dijksra' W/out heap 	0.019422 seconds.	 Max capacity =	9469
+Dijksra' WITH heap 	0.005623 seconds.	 Max capacity =	9469
+Kruskal MST algo 	0.003344 seconds.	 Max capacity =	9469
+
+2)	Max capacity in the path	from 3932----to------>757
+Dijksra' W/out heap 	0.013097 seconds.	 Max capacity =	12260
+Dijksra' WITH heap 	0.003969 seconds.	 Max capacity =	12260
+Kruskal MST algo 	0.004989 seconds.	 Max capacity =	12260
+
+3)	Max capacity in the path	from 4720----to------>651
+Dijksra' W/out heap 	0.00176 seconds.	 Max capacity =	12456
+Dijksra' WITH heap 	0.002788 seconds.	 Max capacity =	12456
+Kruskal MST algo 	0.003247 seconds.	 Max capacity =	12456
+
+4)	Max capacity in the path	from 3719----to------>3820
+Dijksra' W/out heap 	0.014824 seconds.	 Max capacity =	11995
+Dijksra' WITH heap 	0.004501 seconds.	 Max capacity =	11995
+Kruskal MST algo 	0.004436 seconds.	 Max capacity =	11995
+
+
+CASE 4 )  sparse_graph_5
+
+0)	Max capacity in the path	from 2429----to------>3138
+Dijksra' W/out heap 	0.019925 seconds.	 Max capacity =	8772
+Dijksra' WITH heap 	0.005806 seconds.	 Max capacity =	8772
+Kruskal MST algo 	0.003195 seconds.	 Max capacity =	8772
+
+1)	Max capacity in the path	from 4182----to------>242
+Dijksra' W/out heap 	0.015111 seconds.	 Max capacity =	10660
+Dijksra' WITH heap 	0.000265 seconds.	 Max capacity =	10660
+Kruskal MST algo 	0.003131 seconds.	 Max capacity =	10660
+
+2)	Max capacity in the path	from 2926----to------>3270
+Dijksra' W/out heap 	0.014856 seconds.	 Max capacity =	11590
+Dijksra' WITH heap 	0.004798 seconds.	 Max capacity =	11590
+Kruskal MST algo 	0.003111 seconds.	 Max capacity =	11590
+
+3)	Max capacity in the path	from 2698----to------>2556
+Dijksra' W/out heap 	0.014212 seconds.	 Max capacity =	11748
+Dijksra' WITH heap 	0.004533 seconds.	 Max capacity =	11748
+Kruskal MST algo 	0.003193 seconds.	 Max capacity =	11748
+
+4)	Max capacity in the path	from 383----to------>2381
+Dijksra' W/out heap 	0.004759 seconds.	 Max capacity =	12182
+Dijksra' WITH heap 	0.002109 seconds.	 Max capacity =	12182
+Kruskal MST algo 	0.00322 seconds.	 Max capacity =	12182
+
+
+CASE 5 )dense_graph_1
+
+0)	Max capacity in the path	from 2832----to------>2458
+Dijksra' W/out heap 	0.073842 seconds.	 Max capacity =	16369
+Dijksra' WITH heap 	0.10622 seconds.	 Max capacity =	16369
+Kruskal MST algo 	2.18112 seconds.	 Max capacity =	16369
+
+1)	Max capacity in the path	from 1363----to------>2127
+Dijksra' W/out heap 	0.27179 seconds.	 Max capacity =	16368
+Dijksra' WITH heap 	0.24959 seconds.	 Max capacity =	16368
+Kruskal MST algo 	2.15722 seconds.	 Max capacity =	16368
+
+2)	Max capacity in the path	from 3435----to------>2849
+Dijksra' W/out heap 	0.439686 seconds.	 Max capacity =	16357
+Dijksra' WITH heap 	0.437947 seconds.	 Max capacity =	16357
+Kruskal MST algo 	2.16163 seconds.	 Max capacity =	16357
+
+3)	Max capacity in the path	from 4995----to------>1072
+Dijksra' W/out heap 	0.113511 seconds.	 Max capacity =	16355
+Dijksra' WITH heap 	0.077501 seconds.	 Max capacity =	16355
+Kruskal MST algo 	2.38332 seconds.	 Max capacity =	16355
+
+4)	Max capacity in the path	from 3022----to------>1170
+Dijksra' W/out heap 	0.371099 seconds.	 Max capacity =	16353
+Dijksra' WITH heap 	0.345974 seconds.	 Max capacity =	16353
+Kruskal MST algo 	2.56978 seconds.	 Max capacity =	16353
+
+
+CASE 6 )dense_graph_2
+
+0)	Max capacity in the path	from 3591----to------>1121
+Dijksra' W/out heap 	0.280424 seconds.	 Max capacity =	16358
+Dijksra' WITH heap 	0.293877 seconds.	 Max capacity =	16358
+Kruskal MST algo 	2.53147 seconds.	 Max capacity =	16358
+
+1)	Max capacity in the path	from 1868----to------>1285
+Dijksra' W/out heap 	0.052155 seconds.	 Max capacity =	16369
+Dijksra' WITH heap 	0.122069 seconds.	 Max capacity =	16369
+Kruskal MST algo 	2.72737 seconds.	 Max capacity =	16369
+
+2)	Max capacity in the path	from 3525----to------>800
+Dijksra' W/out heap 	0.34456 seconds.	 Max capacity =	16365
+Dijksra' WITH heap 	0.314767 seconds.	 Max capacity =	16365
+Kruskal MST algo 	2.31918 seconds.	 Max capacity =	16365
+
+3)	Max capacity in the path	from 3395----to------>3246
+Dijksra' W/out heap 	0.467402 seconds.	 Max capacity =	16352
+Dijksra' WITH heap 	0.417373 seconds.	 Max capacity =	16352
+Kruskal MST algo 	2.26924 seconds.	 Max capacity =	16352
+
+4)	Max capacity in the path	from 2804----to------>3466
+Dijksra' W/out heap 	0.409441 seconds.	 Max capacity =	16363
+Dijksra' WITH heap 	0.318362 seconds.	 Max capacity =	16363

@@ -1,0 +1,11 @@
+seed =	2993877688
+TOTAL number of edges = 	15000
+TOTAL number of edges = 	15000
+TOTAL number of edges = 	15000
+TOTAL number of edges = 	15000
+TOTAL number of edges = 	15000
+For Sparse graph generation	0.386041 seconds.
+TOTAL number of edges = 	3158891
+TOTAL number of edges = 	3160245
+TOTAL number of edges = 	3158925
+TOTAL number of edges = 	3159047
